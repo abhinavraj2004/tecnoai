@@ -20,3 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1GSBXIIBLwHsvXRJFw2IdM3
    `npm run dev`
 # teachai
 # tecnoai
+# tecnoai
