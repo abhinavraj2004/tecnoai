@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Teacher's Assistant",
+  "description": "An AI-powered application for teachers to generate quizzes and audio from textbook pages. Users can upload an image of a page, and the app will create a question-answer PDF or a text-to-speech audio rendering in multiple languages, including Malayalam.",
+  "requestFramePermissions": []
+}
